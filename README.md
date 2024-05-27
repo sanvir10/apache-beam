@@ -13,6 +13,8 @@ Steps to execute this jobs on localhost:
 
 ## Create an virtual environment
 
+**NOTE:** See this section(https://beam.apache.org/get-started/quickstart-py/#download-and-install) to more details for the setup.
+
 ### Install venv
 
 ```
